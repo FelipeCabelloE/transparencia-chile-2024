@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-Proyecto de transparencia de datos, por Marrría José Órdenes R. y Felipe Cabello E.
+Proyecto de transparencia de datos, por María José Órdenes R. y Felipe Cabello E.
 
 ## Project Organization
 
