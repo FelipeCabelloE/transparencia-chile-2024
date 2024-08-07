@@ -1,0 +1,233 @@
+,dataset_name,dataset_link,file_url,dataset_description
+0,Defunciones por COVID19,https://datos.gob.cl/dataset/defunciones-por-covid19,https://datos.gob.cl/dataset/8982a05a-91f7-422d-97bc-3eee08fde784/resource/8e5539b7-10b2-409b-ae5a-36dae4faf817/download/defunciones_covid19_2020_2024.csv,"Defunciones por COVID19
+Este conjunto de datos contiene los registros acumulados de defunciones (fallecimientos) por COVID19 inscritos en el Servicio de Registro Civil y codificados por el Departamento de estadística e información de Salud DEIS. Se consideraron las causas CIE10 códigos:
+U07.1: Virus Identificado.
+U07.2: Virus No Identificado.
+U09.9: Condición de salud posterior a COVID19 no especificada.
+Se consideran para la confección de este conjunto de datos los registros en estado cerrado (que no registrarán cambios) del año 2020 y los registros preliminares (en proceso de recolección y validación) de los años 2021 a 2024.
+Importante: Los registros preliminares pueden sufrir actualizaciones en el tiempo."
+1,Defunciones por COVID19,https://datos.gob.cl/dataset/defunciones-por-covid19,https://datos.gob.cl/dataset/8982a05a-91f7-422d-97bc-3eee08fde784/resource/80b3e81c-2f06-4919-a3ee-c4f94714c53a/download/diccionario-de-datos-bbdd-covid19.xlsx,"Defunciones por COVID19
+Este conjunto de datos contiene los registros acumulados de defunciones (fallecimientos) por COVID19 inscritos en el Servicio de Registro Civil y codificados por el Departamento de estadística e información de Salud DEIS. Se consideraron las causas CIE10 códigos:
+U07.1: Virus Identificado.
+U07.2: Virus No Identificado.
+U09.9: Condición de salud posterior a COVID19 no especificada.
+Se consideran para la confección de este conjunto de datos los registros en estado cerrado (que no registrarán cambios) del año 2020 y los registros preliminares (en proceso de recolección y validación) de los años 2021 a 2024.
+Importante: Los registros preliminares pueden sufrir actualizaciones en el tiempo."
+2,Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024,https://datos.gob.cl/dataset/ejecucion-presupuestaria-de-iniciativas-de-inversion-acumulado-2024,https://datos.gob.cl/dataset/c6eb172c-bf35-4259-abe5-037daff76bfa/resource/90609734-7c50-49f4-b84c-4392f408ce65/download/diccionariodedatosabiertosinversiones.csv,"Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024
+Información de Ejecución Presupuestaria de Iniciativas de Inversión Acumulado del Sector Gobierno Central desagregado por Partida, Capitulo, Programa y Localización Geográfica de destino, considerando monto acumulado de Identificado y Devengado, separados en pesos y dólares."
+3,Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024,https://datos.gob.cl/dataset/ejecucion-presupuestaria-de-iniciativas-de-inversion-acumulado-2024,https://datos.gob.cl/dataset/c6eb172c-bf35-4259-abe5-037daff76bfa/resource/2569d4fa-eade-4a03-b769-db9be79b7694/download/inversionesnivelpresupuestonacional-nacionalaenero2024.csv,"Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024
+Información de Ejecución Presupuestaria de Iniciativas de Inversión Acumulado del Sector Gobierno Central desagregado por Partida, Capitulo, Programa y Localización Geográfica de destino, considerando monto acumulado de Identificado y Devengado, separados en pesos y dólares."
+4,Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024,https://datos.gob.cl/dataset/ejecucion-presupuestaria-de-iniciativas-de-inversion-acumulado-2024,https://datos.gob.cl/dataset/c6eb172c-bf35-4259-abe5-037daff76bfa/resource/7b62c87c-bef9-4784-8c79-6a421b780762/download/inversionesnivelpresupuestonacional-nacionalafebrero2024.csv,"Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024
+Información de Ejecución Presupuestaria de Iniciativas de Inversión Acumulado del Sector Gobierno Central desagregado por Partida, Capitulo, Programa y Localización Geográfica de destino, considerando monto acumulado de Identificado y Devengado, separados en pesos y dólares."
+5,Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024,https://datos.gob.cl/dataset/ejecucion-presupuestaria-de-iniciativas-de-inversion-acumulado-2024,https://datos.gob.cl/dataset/c6eb172c-bf35-4259-abe5-037daff76bfa/resource/cd3ff364-af74-4613-b1f2-c556c877ea43/download/inversionesnivelpresupuestonacional-nacionalafebrero2024.csv,"Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024
+Información de Ejecución Presupuestaria de Iniciativas de Inversión Acumulado del Sector Gobierno Central desagregado por Partida, Capitulo, Programa y Localización Geográfica de destino, considerando monto acumulado de Identificado y Devengado, separados en pesos y dólares."
+6,Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024,https://datos.gob.cl/dataset/ejecucion-presupuestaria-de-iniciativas-de-inversion-acumulado-2024,https://datos.gob.cl/dataset/c6eb172c-bf35-4259-abe5-037daff76bfa/resource/13364d7e-2a0c-42f7-a06a-c839277716d9/download/inversionesnivelpresupuestonacional-nacionalamarzo2024.csv,"Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024
+Información de Ejecución Presupuestaria de Iniciativas de Inversión Acumulado del Sector Gobierno Central desagregado por Partida, Capitulo, Programa y Localización Geográfica de destino, considerando monto acumulado de Identificado y Devengado, separados en pesos y dólares."
+7,Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024,https://datos.gob.cl/dataset/ejecucion-presupuestaria-de-iniciativas-de-inversion-acumulado-2024,https://datos.gob.cl/dataset/c6eb172c-bf35-4259-abe5-037daff76bfa/resource/6d671370-a92e-4d54-adcf-659e5c632f26/download/inversionesnivelpresupuestonacional-nacionalamarzo2024.csv,"Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024
+Información de Ejecución Presupuestaria de Iniciativas de Inversión Acumulado del Sector Gobierno Central desagregado por Partida, Capitulo, Programa y Localización Geográfica de destino, considerando monto acumulado de Identificado y Devengado, separados en pesos y dólares."
+8,Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024,https://datos.gob.cl/dataset/ejecucion-presupuestaria-de-iniciativas-de-inversion-acumulado-2024,https://datos.gob.cl/dataset/c6eb172c-bf35-4259-abe5-037daff76bfa/resource/0890898f-bfca-4bbd-be53-0e073ad2bf51/download/inversionesnivelpresupuestonacional-nacionalaabril2024.csv,"Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024
+Información de Ejecución Presupuestaria de Iniciativas de Inversión Acumulado del Sector Gobierno Central desagregado por Partida, Capitulo, Programa y Localización Geográfica de destino, considerando monto acumulado de Identificado y Devengado, separados en pesos y dólares."
+9,Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024,https://datos.gob.cl/dataset/ejecucion-presupuestaria-de-iniciativas-de-inversion-acumulado-2024,https://datos.gob.cl/dataset/c6eb172c-bf35-4259-abe5-037daff76bfa/resource/fb187fef-9f12-48d4-b76f-7812f30cf9b7/download/inversionesnivelpresupuestonacional-nacionalaabril2024.csv,"Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024
+Información de Ejecución Presupuestaria de Iniciativas de Inversión Acumulado del Sector Gobierno Central desagregado por Partida, Capitulo, Programa y Localización Geográfica de destino, considerando monto acumulado de Identificado y Devengado, separados en pesos y dólares."
+10,Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024,https://datos.gob.cl/dataset/ejecucion-presupuestaria-de-iniciativas-de-inversion-acumulado-2024,https://datos.gob.cl/dataset/c6eb172c-bf35-4259-abe5-037daff76bfa/resource/54606da2-734c-4864-88df-423bbbd2eab9/download/inversionesnivelpresupuestonacional-nacionalamayo2024.csv,"Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024
+Información de Ejecución Presupuestaria de Iniciativas de Inversión Acumulado del Sector Gobierno Central desagregado por Partida, Capitulo, Programa y Localización Geográfica de destino, considerando monto acumulado de Identificado y Devengado, separados en pesos y dólares."
+11,Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024,https://datos.gob.cl/dataset/ejecucion-presupuestaria-de-iniciativas-de-inversion-acumulado-2024,https://datos.gob.cl/dataset/c6eb172c-bf35-4259-abe5-037daff76bfa/resource/66104678-1fdf-46d6-b1e5-bddf311eea46/download/inversionesnivelpresupuestonacional-nacionalamayo2024.csv,"Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024
+Información de Ejecución Presupuestaria de Iniciativas de Inversión Acumulado del Sector Gobierno Central desagregado por Partida, Capitulo, Programa y Localización Geográfica de destino, considerando monto acumulado de Identificado y Devengado, separados en pesos y dólares."
+12,Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024,https://datos.gob.cl/dataset/ejecucion-presupuestaria-de-iniciativas-de-inversion-acumulado-2024,https://datos.gob.cl/dataset/c6eb172c-bf35-4259-abe5-037daff76bfa/resource/a1416e34-8ce8-4e5c-aaf1-7d8876896427/download/inversionesnivelpresupuestonacional-nacionalajunio2024.csv,"Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024
+Información de Ejecución Presupuestaria de Iniciativas de Inversión Acumulado del Sector Gobierno Central desagregado por Partida, Capitulo, Programa y Localización Geográfica de destino, considerando monto acumulado de Identificado y Devengado, separados en pesos y dólares."
+13,Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024,https://datos.gob.cl/dataset/ejecucion-presupuestaria-de-iniciativas-de-inversion-acumulado-2024,https://datos.gob.cl/dataset/c6eb172c-bf35-4259-abe5-037daff76bfa/resource/4d6dfcaa-52f3-4171-9c8c-c7fe229628c5/download/inversionesnivelpresupuestonacional-nacionalajunio2024.csv,"Ejecución Presupuestaria de Iniciativas de Inversión Acumulado 2024
+Información de Ejecución Presupuestaria de Iniciativas de Inversión Acumulado del Sector Gobierno Central desagregado por Partida, Capitulo, Programa y Localización Geográfica de destino, considerando monto acumulado de Identificado y Devengado, separados en pesos y dólares."
+14,Ejecución Presupuestaria a Mayo de 2024 del Gobierno Central,https://datos.gob.cl/dataset/ejecucion-presupuestaria-a-mayo-de-2024-del-gobierno-central,https://datos.gob.cl/dataset/911ab68a-1885-4ae0-b851-0f82f159abf4/resource/a71a0976-ec12-4419-8a5c-5b44f7b40241/download/ejecucion-presupuestaria_nivel-nacional_a-mayo-2024.csv,"Ejecución Presupuestaria a Mayo de 2024 del Gobierno Central
+Información de Ejecución Presupuestaria a Mayo de 2024 del Gobierno Central, presentada en reportes a nivel Nacional, Partida, Capítulo y Programa con datos originados en el Sistema de Información de Administración Presupuestaria del Sector Público (SIAP)."
+15,Ejecución Presupuestaria a Mayo de 2024 del Gobierno Central,https://datos.gob.cl/dataset/ejecucion-presupuestaria-a-mayo-de-2024-del-gobierno-central,https://datos.gob.cl/dataset/911ab68a-1885-4ae0-b851-0f82f159abf4/resource/c2bd4f4e-4b1f-4ae3-b6d6-0e9b432335d1/download/ejecucion-presupuestaria_nivel-partida_a-mayo-2024.csv,"Ejecución Presupuestaria a Mayo de 2024 del Gobierno Central
+Información de Ejecución Presupuestaria a Mayo de 2024 del Gobierno Central, presentada en reportes a nivel Nacional, Partida, Capítulo y Programa con datos originados en el Sistema de Información de Administración Presupuestaria del Sector Público (SIAP)."
+16,Ejecución Presupuestaria a Mayo de 2024 del Gobierno Central,https://datos.gob.cl/dataset/ejecucion-presupuestaria-a-mayo-de-2024-del-gobierno-central,https://datos.gob.cl/dataset/911ab68a-1885-4ae0-b851-0f82f159abf4/resource/80b2045a-3961-483e-9027-4512e05cf27e/download/ejecucion-presupuestaria_nivel-capitulo_a-mayo-2024.csv,"Ejecución Presupuestaria a Mayo de 2024 del Gobierno Central
+Información de Ejecución Presupuestaria a Mayo de 2024 del Gobierno Central, presentada en reportes a nivel Nacional, Partida, Capítulo y Programa con datos originados en el Sistema de Información de Administración Presupuestaria del Sector Público (SIAP)."
+17,Ejecución Presupuestaria a Mayo de 2024 del Gobierno Central,https://datos.gob.cl/dataset/ejecucion-presupuestaria-a-mayo-de-2024-del-gobierno-central,https://datos.gob.cl/dataset/911ab68a-1885-4ae0-b851-0f82f159abf4/resource/dfddc80e-7054-4cf1-adef-57ad433584db/download/ejecucion-presupuestaria_nivel-programa_a-mayo-2024.csv,"Ejecución Presupuestaria a Mayo de 2024 del Gobierno Central
+Información de Ejecución Presupuestaria a Mayo de 2024 del Gobierno Central, presentada en reportes a nivel Nacional, Partida, Capítulo y Programa con datos originados en el Sistema de Información de Administración Presupuestaria del Sector Público (SIAP)."
+18,Ejecución Presupuestaria a Mayo de 2024 del Gobierno Central,https://datos.gob.cl/dataset/ejecucion-presupuestaria-a-mayo-de-2024-del-gobierno-central,https://datos.gob.cl/dataset/911ab68a-1885-4ae0-b851-0f82f159abf4/resource/0c93acf3-383f-4162-b821-3212c899fcf4/download/diccionario-de-datos-abiertosejecucionpresupuestaria.csv,"Ejecución Presupuestaria a Mayo de 2024 del Gobierno Central
+Información de Ejecución Presupuestaria a Mayo de 2024 del Gobierno Central, presentada en reportes a nivel Nacional, Partida, Capítulo y Programa con datos originados en el Sistema de Información de Administración Presupuestaria del Sector Público (SIAP)."
+19,Atenciones de urgencias de causas respiratorias por semana epidemiológica,https://datos.gob.cl/dataset/atenciones-de-urgencia-causas-respiratorias,https://datos.gob.cl/dataset/606ef5bb-11d1-475b-b69f-b980da5757f4/resource/ae6c9887-106d-4e98-8875-40bf2b836041/download/at_urg_respiratorio_semanal.parquet,"Atenciones de urgencias de causas respiratorias por semana epidemiológica
+Este conjunto de datos contiene los totales de consultas y hospitalizaciones por causa respiratoria provenientes del Sistema de Atención Diaria de Urgencias (SADU) por establecimiento de salud, semana epidemiológica y grupo de edad.
+Se consideran las siguientes causas:
+IRA alta (J00-J06)
+Influenza (J09-J11)
+Neumonía (J12-J18)
+Bronquitis/Bronquiolitis aguda (J20-J21)
+Crisis obstructiva bronquial (J40-J46)
+Otra causa respiratoria (J22, J30-J39, J47, J60-J98)
+COVID-19, virus no identificado (U07.2)
+COVID-19, virus identificado (U07.1)
+Para la confección de este conjunto de datos se consideran los registros del año 2014 hasta la última semana epidemiológica del año en curso. Los datos pertenecen a consultas médicas de establecimientos públicos de Salud.
+Considerando las limitantes de la plataforma de publicación y la cantidad de registros que contiene este conjunto de datos, se utiliza el formato Parquet para la publicación. Apache Parquet es un formato de almacenamiento en columnas que proporciona optimizaciones para acelerar las consultas, es un formato de código abierto (open source) que ofrece alternativas de almacenamiento, codificación, compresión y lenguajes de programación."
+20,Atenciones de urgencias de causas respiratorias por semana epidemiológica,https://datos.gob.cl/dataset/atenciones-de-urgencia-causas-respiratorias,https://datos.gob.cl/dataset/606ef5bb-11d1-475b-b69f-b980da5757f4/resource/27fbe340-0e74-465f-b9f9-488c3bf6533c/download/diccionario-de-datos-urgenciasrespiratoriasporsemana.xlsx,"Atenciones de urgencias de causas respiratorias por semana epidemiológica
+Este conjunto de datos contiene los totales de consultas y hospitalizaciones por causa respiratoria provenientes del Sistema de Atención Diaria de Urgencias (SADU) por establecimiento de salud, semana epidemiológica y grupo de edad.
+Se consideran las siguientes causas:
+IRA alta (J00-J06)
+Influenza (J09-J11)
+Neumonía (J12-J18)
+Bronquitis/Bronquiolitis aguda (J20-J21)
+Crisis obstructiva bronquial (J40-J46)
+Otra causa respiratoria (J22, J30-J39, J47, J60-J98)
+COVID-19, virus no identificado (U07.2)
+COVID-19, virus identificado (U07.1)
+Para la confección de este conjunto de datos se consideran los registros del año 2014 hasta la última semana epidemiológica del año en curso. Los datos pertenecen a consultas médicas de establecimientos públicos de Salud.
+Considerando las limitantes de la plataforma de publicación y la cantidad de registros que contiene este conjunto de datos, se utiliza el formato Parquet para la publicación. Apache Parquet es un formato de almacenamiento en columnas que proporciona optimizaciones para acelerar las consultas, es un formato de código abierto (open source) que ofrece alternativas de almacenamiento, codificación, compresión y lenguajes de programación."
+21,Establecimientos de Salud vigentes,https://datos.gob.cl/dataset/establecimientos-de-salud-vigentes,https://datos.gob.cl/dataset/3bf4cf7c-f638-4735-9a01-f65faae4beca/resource/2c44d782-3365-44e3-aefb-2c8b8363a1bc/download/establecimientos_20240730.csv,"Establecimientos de Salud vigentes
+Este conjunto de datos contiene todos los establecimientos de Salud vigentes.
+Un establecimiento de Salud corresponde a una estructura organizada pública o privada, que posee un lugar, recursos humanos, financieros y materiales, para proporcionar todas o algunas de las acciones de promoción, protección, recuperación de la salud y rehabilitación a personas, familias o comunidades, ya sean en forma presencial o remota. Son autorizados sanitariamente por las SEREMIs y acreditados en cuanto a calidad por la Superintendencia de Salud, y en ambos casos se requieren las respectivas personas jurídicas responsables de esos establecimientos (Prestador de Salud Institucional)
+Se informa que estamos trabajando en la automatización de la actualización de este conjunto de datos, por lo tanto, fechas de publicación y formatos podrían tener alguna variación."
+22,Establecimientos de Salud vigentes,https://datos.gob.cl/dataset/establecimientos-de-salud-vigentes,https://datos.gob.cl/dataset/3bf4cf7c-f638-4735-9a01-f65faae4beca/resource/7127fc99-b858-4e74-8971-51413e484fb1/download/diccionario_base_establecimientos.xlsx,"Establecimientos de Salud vigentes
+Este conjunto de datos contiene todos los establecimientos de Salud vigentes.
+Un establecimiento de Salud corresponde a una estructura organizada pública o privada, que posee un lugar, recursos humanos, financieros y materiales, para proporcionar todas o algunas de las acciones de promoción, protección, recuperación de la salud y rehabilitación a personas, familias o comunidades, ya sean en forma presencial o remota. Son autorizados sanitariamente por las SEREMIs y acreditados en cuanto a calidad por la Superintendencia de Salud, y en ambos casos se requieren las respectivas personas jurídicas responsables de esos establecimientos (Prestador de Salud Institucional)
+Se informa que estamos trabajando en la automatización de la actualización de este conjunto de datos, por lo tanto, fechas de publicación y formatos podrían tener alguna variación."
+23,Décima Encuesta Nacional de la Juventud,https://datos.gob.cl/dataset/decima-encuesta-nacional-de-la-juventud,https://datos.gob.cl/dataset/3ad5cc98-1029-40d7-9c3c-7e751e71dad1/resource/5509562d-b17b-4fd9-be99-23d2ec40a328/download/bbdd-respuesta-encuesta-jovenes.xlsx,"Décima Encuesta Nacional de la Juventud
+Conjunto de datos de la 10ma Encuesta Nacional de Juventud."
+24,10ma Encuesta Nacional de Juventud,https://datos.gob.cl/dataset/10ma-encuesta-nacional-de-juventud,https://datos.gob.cl/dataset/6427113a-706a-488e-91ef-0830604639bf/resource/b8579d7a-b001-4cde-87ce-d5bebe1f4dc4/download/bbdd-respuesta-encuesta-jovenes.csv,"10ma Encuesta Nacional de Juventud
+Conjunto de datos de la Décima Encuesta Nacional de Juventud"
+25,Destinatarios finales de residuos no peligrosos 2022,https://datos.gob.cl/dataset/destinatarios-finales-de-residuos-no-peligrosos-2022,https://datosretc.mma.gob.cl/dataset/e74bf5ef-b8a9-48ed-bceb-f86dc9879c92/resource/fcac0b10-0b4d-4ae2-bc1c-cb42af80b8f7/download/df-sinader-2022-ckan.csv,"Destinatarios finales de residuos no peligrosos 2022
+Repositorio de información respecto a cantidades recepcionadas por destinatarios de residuos no peligrosos para el año 2022."
+26,Farmacias en Chile,https://datos.gob.cl/dataset/farmacias-en-chile,https://midas.minsal.cl/farmacia_v2/WS/getLocales.php,"Farmacias en Chile
+Listados de farmacias a través del territorio nacional obtenido de Farmanet (MINSAL) - Actualizado diariamente."
+27,Farmacias en Chile,https://datos.gob.cl/dataset/farmacias-en-chile,https://midas.minsal.cl/farmacia_v2/WS/getLocalesTurnos.php,"Farmacias en Chile
+Listados de farmacias a través del territorio nacional obtenido de Farmanet (MINSAL) - Actualizado diariamente."
+28,Denuncias,https://datos.gob.cl/dataset/denuncias,https://www.supereduc.cl/denuncias-ingresadas/,"Denuncias
+En este módulo se encuentran los registros de denuncias presentadas ante la Superintendencia de Educación desde el año 2014. La base de datos que se actualiza de forma trimestral, detalla aspectos del proceso de cada denuncia, tales como ámbito, tema, subtema, fecha de ingreso, estado actual y la unidad regional correspondiente, ya sea donde se encuentra (si sigue activa) o donde se resolvió. También se incluyen algunos datos de caracterización sobre los ciudadanos que hicieron el requerimiento y los afectados, además de información de los establecimientos educacionales y/o entidades sostenedoras involucradas."
+29,Solicitudes de mediación,https://datos.gob.cl/dataset/solicitudes-de-mediacion,https://www.supereduc.cl/solicitudes-de-mediacion/,"Solicitudes de mediación
+Esta sección brinda acceso a los registros de solicitudes de mediación presentadas ante la Superintendencia de Educación desde 2015. La base de datos expone detalles del proceso de revisión de estas solicitudes y, si son mediables, la gestión de cada una. Incluye datos del solicitante, el afectado, la temática, fecha y canal de ingreso, estado actual, número de sesiones realizadas y detalles del establecimiento educacional, entre otros aspectos."
+30,Procesos Administrativos Sancionatorios,https://datos.gob.cl/dataset/procesos-administrativos-sancionatorios,https://www.supereduc.cl/pas/,"Procesos Administrativos Sancionatorios
+Esta sección ofrece información sobre el procedimiento sancionatorio establecido por la ley N°20.529, a través del cual la Superintendencia de Educación investiga y, en caso de determinarse, sanciona infracciones a la normativa educacional. Estas sanciones pueden incluir amonestaciones, multas en UTM, entre otras. En el ejercicio de su facultad de fiscalización, la Superintendencia puede actuar de oficio, basándose en los programas de fiscalización de la institución, o por denuncias de la comunidad educativa, el Ministerio de Educación u otras entidades."
+31,Ley de Presupuestos Inicial y Vigente a Mayo de 2024 del Gobierno Central,https://datos.gob.cl/dataset/ley-de-presupuestos-inicial-y-vigente-a-mayo-de-2024-del-gobierno-central,https://datos.gob.cl/dataset/5097da5c-0203-45c0-a08a-04d4d6da522c/resource/c7bfe589-b127-4167-b5e4-76d0bc3682c7/download/ley-de-presupuestos-inicial-y-vigente_nivel-nacional_a-mayo-2024.csv,"Ley de Presupuestos Inicial y Vigente a Mayo de 2024 del Gobierno Central
+Información de Ley de Presupuestos Inicial y Vigente a Mayo de 2024 del Gobierno Central, presentada en reportes a nivel Nacional, Partida, Capítulo y Programa con datos originados en el Sistema de Información de Administración Presupuestaria del Sector Público (SIAP)."
+32,Ley de Presupuestos Inicial y Vigente a Mayo de 2024 del Gobierno Central,https://datos.gob.cl/dataset/ley-de-presupuestos-inicial-y-vigente-a-mayo-de-2024-del-gobierno-central,https://datos.gob.cl/dataset/5097da5c-0203-45c0-a08a-04d4d6da522c/resource/347ea2c1-d3b9-4be4-af79-a1dbcea33b76/download/ley-de-presupuestos-inicial-y-vigente_nivel-partida_a-mayo-2024.csv,"Ley de Presupuestos Inicial y Vigente a Mayo de 2024 del Gobierno Central
+Información de Ley de Presupuestos Inicial y Vigente a Mayo de 2024 del Gobierno Central, presentada en reportes a nivel Nacional, Partida, Capítulo y Programa con datos originados en el Sistema de Información de Administración Presupuestaria del Sector Público (SIAP)."
+33,Ley de Presupuestos Inicial y Vigente a Mayo de 2024 del Gobierno Central,https://datos.gob.cl/dataset/ley-de-presupuestos-inicial-y-vigente-a-mayo-de-2024-del-gobierno-central,https://datos.gob.cl/dataset/5097da5c-0203-45c0-a08a-04d4d6da522c/resource/38453e1f-6cc9-4e2e-aa6b-267a3e908155/download/ley-de-presupuestos-inicial-y-vigente_nivel-capitulo_a-mayo-2024.csv,"Ley de Presupuestos Inicial y Vigente a Mayo de 2024 del Gobierno Central
+Información de Ley de Presupuestos Inicial y Vigente a Mayo de 2024 del Gobierno Central, presentada en reportes a nivel Nacional, Partida, Capítulo y Programa con datos originados en el Sistema de Información de Administración Presupuestaria del Sector Público (SIAP)."
+34,Ley de Presupuestos Inicial y Vigente a Mayo de 2024 del Gobierno Central,https://datos.gob.cl/dataset/ley-de-presupuestos-inicial-y-vigente-a-mayo-de-2024-del-gobierno-central,https://datos.gob.cl/dataset/5097da5c-0203-45c0-a08a-04d4d6da522c/resource/ee2d7669-05e3-4fe5-a812-c10e525f2977/download/ley-de-presupuestos-inicial-y-vigente_nivel-programa_a-mayo-2024.csv,"Ley de Presupuestos Inicial y Vigente a Mayo de 2024 del Gobierno Central
+Información de Ley de Presupuestos Inicial y Vigente a Mayo de 2024 del Gobierno Central, presentada en reportes a nivel Nacional, Partida, Capítulo y Programa con datos originados en el Sistema de Información de Administración Presupuestaria del Sector Público (SIAP)."
+35,Ley de Presupuestos Inicial y Vigente a Mayo de 2024 del Gobierno Central,https://datos.gob.cl/dataset/ley-de-presupuestos-inicial-y-vigente-a-mayo-de-2024-del-gobierno-central,https://datos.gob.cl/dataset/5097da5c-0203-45c0-a08a-04d4d6da522c/resource/0327ab88-20da-4d8b-bfb9-066c0e6fc536/download/diccionario-de-datos-abiertosleydepresupuestos.csv,"Ley de Presupuestos Inicial y Vigente a Mayo de 2024 del Gobierno Central
+Información de Ley de Presupuestos Inicial y Vigente a Mayo de 2024 del Gobierno Central, presentada en reportes a nivel Nacional, Partida, Capítulo y Programa con datos originados en el Sistema de Información de Administración Presupuestaria del Sector Público (SIAP)."
+36,Proyectos de Obra Pública (ST 31),https://datos.gob.cl/dataset/proyectos-de-obra-publica-st-31,https://datos.gob.cl/dataset/11741eba-f15f-4126-b688-cb17847d4ba1/resource/95e7c84b-f2f7-4648-855d-37b89b59163f/download/proyectos.csv,"Proyectos de Obra Pública (ST 31)
+Proyectos Asociados a Contratos de Obra Pública (ST 31)"
+37,Ofertas en Licitaciones de Obra Pública (ST 31),https://datos.gob.cl/dataset/ofertas-en-licitaciones-de-obra-publica-st-31,https://datos.gob.cl/dataset/23e70872-579c-4970-b7d3-8d966ccd535b/resource/9198e6e1-cee5-4efe-940a-3b7446479af6/download/ofertas.csv,"Ofertas en Licitaciones de Obra Pública (ST 31)
+Datos de ofertas en licitaciones de obra ST 31, del Ministerio de Obras Públicas."
+38,Contratos de Obra Pública (ST 31),https://datos.gob.cl/dataset/contratos-de-obra-publica-st-31,https://datos.gob.cl/dataset/9c99346f-eb56-4025-95b5-472d809990d0/resource/408a14d4-bdbd-4b2d-9ebd-b4e83ec21c74/download/conratos.csv,"Contratos de Obra Pública (ST 31)
+Datos de contratos de obra ST 31, del Ministerio de Obras Públicas."
+39,Requisitos de Contratistas por Contratos de Obra Pública (ST 31),https://datos.gob.cl/dataset/requisitos-de-contratistas-por-contratos-de-obra-publica-st-31,https://datos.gob.cl/dataset/12862fbd-dc06-4adf-9394-5173fcd8eb81/resource/924bba26-c484-4231-98f6-652cfabb6b34/download/requisitos.csv,"Requisitos de Contratistas por Contratos de Obra Pública (ST 31)
+Tipo de registro, especialidad y categoría requerida a contratistas por contrato de obra pública."
+40,Pagos Asociados a Contratos de Obra Pública (ST 31),https://datos.gob.cl/dataset/pagos-asociados-a-contratos-de-obra-publica-st-31,https://datos.gob.cl/dataset/ae8fc2c4-bb5d-4bfc-b3c0-4692d1f4fa1e/resource/beb2f9c4-07c1-46e7-b086-4b93e65f635f/download/pagos.csv,"Pagos Asociados a Contratos de Obra Pública (ST 31)
+Pagos Asociados a Contratos de Obra Pública (ST 31)"
+41,Notificaciones ENO,https://datos.gob.cl/dataset/notificaciones-eno,https://datos.gob.cl/dataset/76aa7b9b-8a3b-404a-853d-0ecff159876d/resource/b6081caf-39af-4f3f-86de-d6e00739bdc4/download/20240304_base_eno_final.csv,"Notificaciones ENO
+El Departamento de Epidemiología del Ministerio de Salud de Chile pone a disposición pública, archivo con bases de datos de algunas Enfermedades de Notificación Obligatoria (ENO) que se encuentran bajo vigilancia epidemiológica según lo establece el Decreto Supremo N°7/2019 MINSAL.
+Los datos corresponden al periodo 2007- 2022, los años 2019 al 2022 están sujetos a validación, por lo que podrían ser modificados en la siguiente actualización de datos. Se destaca que, existen algunos campos que se encuentran vacíos desde el 2007-2018 debido a cambios realizados en los sistemas de información de notificación.
+Cada ENO contiene variables comunes y variables específicas de la vigilancia. En archivo complementario se encuentra el diccionario de variables con la explicación de cada una.
+Las ENO en la base de datos publicadas son:
+Arbovirus
+Botulismo Adulto
+Botulismo Infantil
+Brucelosis
+Carbunco
+Chagas
+Cisticercosis
+Coqueluche
+Creutzfeldt-Jakob
+Difteria
+Enfermedad meningocócica
+Fiebre Tifoidea y Paratifoidea
+Fiebre Q
+Hepatitis A
+Hepatitis B
+Hepatitis C
+Hepatitis E
+Hidatidosis (Equinococosis)
+Infección gonocócica
+Lepra
+Leptospirosis
+Malaria
+Meningitis Bacteriana
+MPOX
+Parotiditis
+Psitacosis
+Sarampión
+Sífilis
+Síndrome Pulmonar por Hantavirus
+Tétanos
+Triquinosis
+VIH"
+42,Notificaciones ENO,https://datos.gob.cl/dataset/notificaciones-eno,https://datos.gob.cl/dataset/76aa7b9b-8a3b-404a-853d-0ecff159876d/resource/41ae9cbc-c0df-4461-a03d-94f83d3c8661/download/diccionario_de_variables_eno_2007_2022fin.xlsx,"Notificaciones ENO
+El Departamento de Epidemiología del Ministerio de Salud de Chile pone a disposición pública, archivo con bases de datos de algunas Enfermedades de Notificación Obligatoria (ENO) que se encuentran bajo vigilancia epidemiológica según lo establece el Decreto Supremo N°7/2019 MINSAL.
+Los datos corresponden al periodo 2007- 2022, los años 2019 al 2022 están sujetos a validación, por lo que podrían ser modificados en la siguiente actualización de datos. Se destaca que, existen algunos campos que se encuentran vacíos desde el 2007-2018 debido a cambios realizados en los sistemas de información de notificación.
+Cada ENO contiene variables comunes y variables específicas de la vigilancia. En archivo complementario se encuentra el diccionario de variables con la explicación de cada una.
+Las ENO en la base de datos publicadas son:
+Arbovirus
+Botulismo Adulto
+Botulismo Infantil
+Brucelosis
+Carbunco
+Chagas
+Cisticercosis
+Coqueluche
+Creutzfeldt-Jakob
+Difteria
+Enfermedad meningocócica
+Fiebre Tifoidea y Paratifoidea
+Fiebre Q
+Hepatitis A
+Hepatitis B
+Hepatitis C
+Hepatitis E
+Hidatidosis (Equinococosis)
+Infección gonocócica
+Lepra
+Leptospirosis
+Malaria
+Meningitis Bacteriana
+MPOX
+Parotiditis
+Psitacosis
+Sarampión
+Sífilis
+Síndrome Pulmonar por Hantavirus
+Tétanos
+Triquinosis
+VIH"
+43,Notificaciones ENO,https://datos.gob.cl/dataset/notificaciones-eno,https://datos.gob.cl/dataset/76aa7b9b-8a3b-404a-853d-0ecff159876d/resource/4a1661f6-6f1f-401d-88cd-ff11c8b58e88/download/metodologia_validacion_anonimizacion_y_publicacion_bases_de_datos_eno.pdf,"Notificaciones ENO
+El Departamento de Epidemiología del Ministerio de Salud de Chile pone a disposición pública, archivo con bases de datos de algunas Enfermedades de Notificación Obligatoria (ENO) que se encuentran bajo vigilancia epidemiológica según lo establece el Decreto Supremo N°7/2019 MINSAL.
+Los datos corresponden al periodo 2007- 2022, los años 2019 al 2022 están sujetos a validación, por lo que podrían ser modificados en la siguiente actualización de datos. Se destaca que, existen algunos campos que se encuentran vacíos desde el 2007-2018 debido a cambios realizados en los sistemas de información de notificación.
+Cada ENO contiene variables comunes y variables específicas de la vigilancia. En archivo complementario se encuentra el diccionario de variables con la explicación de cada una.
+Las ENO en la base de datos publicadas son:
+Arbovirus
+Botulismo Adulto
+Botulismo Infantil
+Brucelosis
+Carbunco
+Chagas
+Cisticercosis
+Coqueluche
+Creutzfeldt-Jakob
+Difteria
+Enfermedad meningocócica
+Fiebre Tifoidea y Paratifoidea
+Fiebre Q
+Hepatitis A
+Hepatitis B
+Hepatitis C
+Hepatitis E
+Hidatidosis (Equinococosis)
+Infección gonocócica
+Lepra
+Leptospirosis
+Malaria
+Meningitis Bacteriana
+MPOX
+Parotiditis
+Psitacosis
+Sarampión
+Sífilis
+Síndrome Pulmonar por Hantavirus
+Tétanos
+Triquinosis
+VIH"
+44,Atenciones de urgencia de la red pública de Salud,https://datos.gob.cl/dataset/atenciones-de-urgencia,https://datos.gob.cl/dataset/be2a922f-8ea4-4ebc-8828-0c713b702cd2/resource/79c05b22-391b-4dbd-a362-ba088fecabab/download/diccionario-de-datos-atencionesurgencia.xlsx,"Atenciones de urgencia de la red pública de Salud
+Este conjunto de datos contiene información agregada de las consultas de urgencias de la red pública de Salud obtenidas de las atenciones realizadas en los centros de Salud y establecimientos hospitalarios en el país, originadas a partir del registro del DAU (Datos de Atención de Urgencia).
+Se entiende por urgencia o emergencia vital toda condición clínica que implique riesgo de muerte o de secuela funcional grave, la atención de urgencia o emergencia vital ante un hecho de tal envergadura, debe ser inmediata e impostergable."
