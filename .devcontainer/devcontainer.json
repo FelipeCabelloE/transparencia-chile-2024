@@ -1,21 +1,61 @@
 {
-    "name": "Solarthon Sports Video Analyse",
-    "build": { 
-        "dockerfile": "Dockerfile"
-    },
-    "overrideCommand": false,
-
-    "customizations": {
-        "vscode": {
-            "extensions": [
-                "ms-python.python",
-                "ms-python.black-formatter"
-            ]
-        }
-    },
-    "features": {
-        "ghcr.io/devcontainers/features/github-cli:1": {}
-    },
-  
-    "forwardPorts": [80]
-  }
+	"name": "Transparenta 2024",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"overrideCommand": false,
+	"waitFor": "onCreateCommand",
+	"updateContentCommand": "python3 -m pip install -r ../requirements.txt",
+	"postCreateCommand": "",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"charliermarsh.ruff",
+				"codezombiech.gitignore",
+				"eamodio.gitlens",
+				"exiasr.hadolint",
+				"kevinrose.vsc-python-indent",
+				"mosapride.zenkaku",
+				"ms-azuretools.vscode-docker",
+				"ms-python.python",
+				"ms-toolsai.jupyter",
+				"njpwerner.autodocstring",
+				"oderwat.indent-rainbow",
+				"pkief.material-icon-theme",
+				"shardulm94.trailing-spaces",
+				"usernamehw.errorlens",
+				"yzhang.markdown-all-in-one"
+			],
+			"settings": {
+				// Disabling uv's python override
+				// "python.defaultInterpreterPath": "/root/.local/share/uv/python",
+				"[python]": {
+					"editor.defaultFormatter": "charliermarsh.ruff",
+					"editor.codeActionsOnSave": {
+						"source.fixAll.ruff": "explicit",
+						"source.organizeImports.ruff": "explicit"
+					},
+					"editor.formatOnSave": true
+				},
+				"notebook.codeActionsOnSave": {
+					"notebook.source.fixAll": "explicit",
+					"notebook.source.organizeImports": "explicit"
+				},
+				"files.insertFinalNewline": true,
+				"files.trimTrailingWhitespace": true,
+				"terminal.integrated.defaultProfile.linux": "zsh",
+				"terminal.integrated.profiles.linux": {
+					"zsh": {
+						"path": "/bin/zsh"
+					}
+				}
+			}
+		}
+	},
+	"features": {
+		"ghcr.io/devcontainers/features/github-cli:1": {}
+	},
+	"forwardPorts": [
+		10000
+	]
+}

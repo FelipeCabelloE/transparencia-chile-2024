@@ -15,4 +15,6 @@ scikit-learn
 tqdm
 typer
 geopandas
+requests
+ipywidgets
 -e .
