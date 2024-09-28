@@ -1,19 +1,18 @@
 {
 	"name": "Transparenta 2024",
 	"build": {
+		"context": "..",
 		"dockerfile": "Dockerfile"
 	},
-	"overrideCommand": false,
-	"waitFor": "onCreateCommand",
-	"updateContentCommand": "python3 -m pip install -r ../requirements.txt",
-	"postCreateCommand": "",
+	//"updateContentCommand": "python3 -m pip install -r requirements.txt",
+	"postCreateCommand": "uv sync --dev",
+	"postStartCommand": "git config --global --add safe.directory ${containerWorkspaceFolder} && uv run pre-commit install",
 	"customizations": {
 		"vscode": {
 			"extensions": [
 				"charliermarsh.ruff",
 				"codezombiech.gitignore",
 				"eamodio.gitlens",
-				"exiasr.hadolint",
 				"kevinrose.vsc-python-indent",
 				"mosapride.zenkaku",
 				"ms-azuretools.vscode-docker",
@@ -27,8 +26,7 @@
 				"yzhang.markdown-all-in-one"
 			],
 			"settings": {
-				// Disabling uv's python override
-				// "python.defaultInterpreterPath": "/root/.local/share/uv/python",
+				"python.defaultInterpreterPath": "/root/.local/share/uv/python",
 				"[python]": {
 					"editor.defaultFormatter": "charliermarsh.ruff",
 					"editor.codeActionsOnSave": {
@@ -42,20 +40,16 @@
 					"notebook.source.organizeImports": "explicit"
 				},
 				"files.insertFinalNewline": true,
-				"files.trimTrailingWhitespace": true,
-				"terminal.integrated.defaultProfile.linux": "zsh",
-				"terminal.integrated.profiles.linux": {
-					"zsh": {
-						"path": "/bin/zsh"
-					}
-				}
+				"files.trimTrailingWhitespace": true //,
+				// TODO implement zsh
+				// "terminal.integrated.defaultProfile.linux": "zsh",
+				// "terminal.integrated.profiles.linux": {
+				// 	"zsh": {
+				// 		"path": "/bin/zsh"
+				// 	}
+				// }
 			}
 		}
 	},
-	"features": {
-		"ghcr.io/devcontainers/features/github-cli:1": {}
-	},
-	"forwardPorts": [
-		10000
-	]
+	"forwardPorts": []
 }

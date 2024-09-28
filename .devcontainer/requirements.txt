@@ -1,6 +1,0 @@
-solara==1.24.0
-Pillow
-opencv-python
-ultralytics
-numpy
-plotly
