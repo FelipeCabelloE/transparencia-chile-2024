@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "transparencia-chile-2024"
+  site-url: "https://FelipeCabelloE.github.io/transparencia-chile-2024"
+  description: "nbdev deployment of transparenta datos"
+  repo-branch: main
+  repo-url: "https://github.com/FelipeCabelloE/transparencia-chile-2024"

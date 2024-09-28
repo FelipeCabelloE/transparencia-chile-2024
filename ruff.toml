@@ -1,5 +1,9 @@
 # Exclude a variety of commonly ignored directories.
 exclude = [
+    "nbs/*",
+    "settings.ini",
+    "setup.py",
+    "MANIFEST.in",
     ".bzr",
     ".direnv",
     ".eggs",
