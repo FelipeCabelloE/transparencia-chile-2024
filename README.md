@@ -1,3 +1,16 @@
+---
+title: Transparenta 2024 Equipo T
+emoji: 😻
+colorFrom: yellow
+colorTo: pink
+sdk: streamlit
+sdk_version: 1.38.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
+
 # transparencia-chile-2024
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
