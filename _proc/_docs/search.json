@@ -1,0 +1,62 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "foo\n\n foo ()",
+    "crumbs": [
+      "core"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "transparencia-chile-2024",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "transparencia-chile-2024"
+    ]
+  },
+  {
+    "objectID": "index.html#developer-guide",
+    "href": "index.html#developer-guide",
+    "title": "transparencia-chile-2024",
+    "section": "Developer Guide",
+    "text": "Developer Guide\nIf you are new to using nbdev here are some useful pointers to get you started.\n\nInstall transparencia_chile_2024 in Development mode\n# make sure transparencia_chile_2024 package is installed in development mode\n$ pip install -e .\n\n# make changes under nbs/ directory\n# ...\n\n# compile to have changes apply to transparencia_chile_2024\n$ nbdev_prepare",
+    "crumbs": [
+      "transparencia-chile-2024"
+    ]
+  },
+  {
+    "objectID": "index.html#usage",
+    "href": "index.html#usage",
+    "title": "transparencia-chile-2024",
+    "section": "Usage",
+    "text": "Usage\n\nInstallation\nInstall latest from the GitHub repository:\n$ pip install git+https://github.com/FelipeCabelloE/transparencia-chile-2024.git\nor from conda\n$ conda install -c FelipeCabelloE transparencia_chile_2024\nor from pypi\n$ pip install transparencia_chile_2024\n\n\nDocumentation\nDocumentation can be found hosted on this GitHub repository’s pages. Additionally you can find package manager specific guidelines on conda and pypi respectively.",
+    "crumbs": [
+      "transparencia-chile-2024"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "transparencia-chile-2024",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "transparencia-chile-2024"
+    ]
+  },
+  {
+    "objectID": "starter.html",
+    "href": "starter.html",
+    "title": "starter",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nsource\n\n\nfoo\n\n foo ()",
+    "crumbs": [
+      "starter"
+    ]
+  }
+]
