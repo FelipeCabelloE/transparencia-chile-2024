@@ -5,4 +5,8 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://FelipeCabelloE.github.io',
                 'git_url': 'https://github.com/FelipeCabelloE/transparencia-chile-2024',
                 'lib_path': 'transparencia_chile_2024'},
-  'syms': {'transparencia_chile_2024.core': {'transparencia_chile_2024.core.foo': ('core.html#foo', 'transparencia_chile_2024/core.py')}}}
+  'syms': { 'transparencia_chile_2024.core': {'transparencia_chile_2024.core.foo': ('core.html#foo', 'transparencia_chile_2024/core.py')},
+            'transparencia_chile_2024.starter': { 'transparencia_chile_2024.starter.foo': ( 'starter.html#foo',
+                                                                                            'transparencia_chile_2024/starter.py'),
+                                                  'transparencia_chile_2024.starter.say_hello': ( 'starter.html#say_hello',
+                                                                                                  'transparencia_chile_2024/starter.py')}}}
