@@ -11,10 +11,10 @@ dependencies = [
   "geopandas",
   "ipywidgets",
   "isort",
+  "streamlit",
   "jupyterlab",
   "matplotlib",
   "mkdocs",
-  "nbdev",
   "notebook",
   "numpy",
   "pandas",
@@ -23,7 +23,6 @@ dependencies = [
   "requests",
   "tqdm",
   "ipykernel",
-  "jupyterlab-quarto>=0.3.5",
 ]
 
 [tool.uv]
