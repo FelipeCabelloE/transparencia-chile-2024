@@ -23,6 +23,7 @@ dependencies = [
   "requests",
   "tqdm",
   "ipykernel",
+  "plotly",
 ]
 
 [tool.uv]
