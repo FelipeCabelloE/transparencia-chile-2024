@@ -21,6 +21,8 @@ Bienvenido a nuestro repositorio de datos abiertos 🤗!
 
 Aquí podrás encontrar el flujo de nuestro trabajo a lo largo de la competencia, todo nuestro código fuente y algunos datasets creados para los análisis🤓.
 
+[Link al video en youtube](https://www.youtube.com/watch?v=dA250sLVCDk)
+
 No dudes en revisar los notebooks. Te recomiendo empezar por el notebook 0.14 🤟!
 
 Este es un ambiente reproducible, que puede ser activado utilizando github codespaces o devcontainers ☝️!
