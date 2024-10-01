@@ -166,7 +166,7 @@ cython_debug/
 /data/interim/*
 /data/processed/*
 /data/raw/*
-
+!/data/processed/*.parquet
 
 # Mac OS-specific storage files
 .DS_Store
